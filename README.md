@@ -1,5 +1,5 @@
 # minitalk - My Signal Communication System
-
+<img width="1554" height="812" alt="minitalk" src="https://github.com/user-attachments/assets/8a185c6e-86c8-408e-ac38-8b2bea88ab8c" />
 
 *My inter-process communication project*
 ---
